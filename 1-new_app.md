@@ -25,7 +25,7 @@ echo 'rails server -b 0.0.0.0'
 rails server -b 0.0.0.0
 ```
 * Start tmux.  Use one tmux window to run the server and one tmux window to enter commands.
-* While the local server is running, open the web browser in your host environment and go to the appropriate URL. You should see the Ruby on Rails default splash screen. Keep this web browser tab open, and refresh it periodically to see the progress in this project.
+* While the local server is running, open the web browser in your host environment and go to the appropriate URL. You should see the Rails Tutorial Sample App.
 
 ## Gemfile
 * Add the following lines to the end of the Gemfile:
